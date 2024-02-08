@@ -1,6 +1,6 @@
 # Biodata
 
-## Nama: [sasacndy]
+## Nama: [sasa izzatun nisa]
 
 ## Tentang Saya:
 [saya adalah seorang siswi sma di sma sains al quran saya suka teknologi saya ingin mencoba hal hal baru yang bisa membantu orang. ]
