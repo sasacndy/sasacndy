@@ -1,16 +1,17 @@
-### Hi sasa👋
+# Biodata
 
-<!--
-**sasacndy/sasacndy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Nama: [sasacndy]
 
-Here are some ideas to get you started:
+## Tentang Saya:
+[saya adalah seorang siswi sma di sma sains al quran saya suka teknologi saya ingin mencoba hal hal baru yang bisa membantu orang. ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pendidikan:
+- SMA (2023-2025)
+
+## Keahlian:
+- Memasak
+- Membuat web atau artikel
+- Mencoba hal baru
+
+## Kontak:
+- Email: [sasaizzatun@gmail.com]
